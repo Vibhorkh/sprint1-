@@ -1,0 +1,88 @@
+#lg1
+{ 
+	font-weight: bolder;
+
+}
+.navbar-brand
+{ 
+	opacity: 0.5;
+	color: blueviolet;
+}
+#box
+{
+	padding: 8px;
+
+}
+
+
+#form
+{
+	position: absolute;
+	z-index: 1;
+	height: 300px;
+	width: 300px;
+	top: 200px;
+	left: 1100px;
+}
+#btn
+{
+	background-color:#FF0000;
+	border-radius: 20px;
+	color: white;
+	width: 150px;
+	height: 35px;
+	border: none;
+
+}
+#t1
+{
+	position: absolute;
+	top: 250px;
+	left: 260px;
+	color: white;
+	font-family: 'Shadows Into Light', cursive;
+
+
+}
+
+.img1{ padding:10px }
+
+#bg1
+{
+	height:500px;
+	width: 1600px;
+
+}
+
+
+#logo
+{
+
+     height: 30px;
+     width: 50px;
+     font-family: 'Shadows Into Light', cursive;
+
+}
+body
+{
+   background-color: dimgray;
+   font-family: serif;
+
+}
+#m1 {
+			color: ghostwhite;
+			font: cursive;
+			font-size: 10px;
+
+	}
+
+	#foot
+	{
+		height: 60px;
+		width: 100%;
+		background-color: black;
+		opacity: 0.8;
+		color: black;
+
+
+	}
